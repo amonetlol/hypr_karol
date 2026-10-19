@@ -1,2 +1,2 @@
 # hypr_karol
-Quickshell Karon
+Quickshell Karol
