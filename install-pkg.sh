@@ -52,6 +52,7 @@ packages=(
 	gtk3
 	gtk4
 	hyprland
+	hyprsunset
 	libqalculate
 	lm_sensors
 	networkmanager
