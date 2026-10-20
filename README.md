@@ -2,7 +2,7 @@
 
 Rice Hyprland e QuickShell Karol.
 
-Baseado nas configurações de [karol-broda/nixos-config](https://github.com/karol-broda/nixos-config). O link fica como referência para acompanhar mudanças futuras do projeto original.
+Baseado nas configurações de [karol-broda/nixos-config](https://github.com/karol-broda/nixos-config).
 
 ## Conteúdo
 
