@@ -58,6 +58,7 @@ packages=(
 	networkmanager
 	neovim
 	nwg-look
+	otf-monaspace-nerd
 	pipewire
 	pipewire-pulse
 	playerctl
